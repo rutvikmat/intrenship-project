@@ -1,0 +1,24 @@
+Features on the Admin Home Page
+Dashboard Overview:
+
+        Total Cars Available
+        Total Bookings
+        Active Rentals
+        Total Revenue
+        Pending Payments
+Quick Actions:
+        Add New Car
+        Manage Cars
+        View Bookings
+        Approve/Reject Bookings
+        View Customer Feedback
+Navigation Links:
+        Manage Inventory (Cars)
+        View Payment History
+        Customer Management
+        Reports and Analytics
+Search and Filter:
+    Search cars by model, category, or availability
+    Filter bookings by date or status
+Notifications:
+    Alerts for new bookings, payment failures, or service requests.
